@@ -27,6 +27,4 @@ public class Pilha {
         topo--;
         return elemento;
     }
-
-
 }
